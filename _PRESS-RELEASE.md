@@ -1,4 +1,4 @@
-# Project Name #
+# Meet Me Halfway #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,28 +17,29 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Meet Me Halfway
+ 
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > For users who wants to meet up with another user halfway from both locations.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Uses the location of two users, calculates the midway point between both users, and finds possible locations via Yelp to meet up.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Currently, users can only find yelp locations nearby or at a specific location specified. Users may also not want to travel far to meet up with others.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Provides a good location compromise for both users who want to meet up.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > This is something I've always wanted to use with friends who live far away.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > All the app needs is your location and the other user's location and the app will generate a list of meetup locations.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > I have met up with all my friends who live far away and have explored new amazing places I would not normally have.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Don't struggle to meet up with friends who live far away, use Meet Me Halfway!
